@@ -27,7 +27,7 @@ class ComputationalArchitect:
         self.education = ["MS Architecture & Urban Design @ UCLA",
                           "MS Information Studies @ Trine University",
                           "Certificate in App Programming @ UCLA Extension"]
-        self.current_role = "Computational Designer @ Plus Architects"
+        self.current_role = "Senior BIM & Computational Designer @ Saiful Bouquet Structural Engineers"
         self.ncarb_hours = "2,150+"
 
     def daily_routine(self):
@@ -65,9 +65,12 @@ class ComputationalArchitect:
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 <!-- Web & Cloud -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -95,6 +98,8 @@ class ComputationalArchitect:
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🔍 **[AI Detail Library](https://www.ethanhdigital.com/project/rag-system)** | Cloud-native hybrid search over 1,000+ structural details — VLM metadata extraction, text + image embeddings, IaC-provisioned on Azure | `Python` `Azure AI Search` `Bicep` `React` |
+| 🗺️ **[SB Web Platform](https://www.ethanhdigital.com/project/sb-web)** | A firm's internal platform: interactive project atlas, engineering tool library, drawing QA/QC automation, admin center | `Next.js` `Supabase` `Mapbox` `Node` |
 | 🏢 **Unit Schedule Plugin** | Revit plugin for multi-family unit analysis with open space tracking | `C#` `WPF` `Revit API` |
 | 💰 **[DTI-Cal.com](https://dti-cal.com)** | Full-stack SaaS for mortgage DTI calculations with real-time analysis | `Next.js` `Flask` `PostgreSQL` `CI/CD` |
 | 🔧 **Rhino Design Tools** | Proprietary plugins for early-stage design automation | `C#` `RhinoCommon` `Grasshopper` |
@@ -122,10 +127,10 @@ class ComputationalArchitect:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  🔨 Building: Revit & Rhino plugins for AEC automation          │
-│  🧠 Learning: Advanced Revit API, Machine Learning for BIM      │
-│  🎨 Exploring: AI-driven architectural visualization            │
-│  📐 Working on: 2025 CHIP law density optimization projects     │
+│  🔨 Building: AI-powered search & QA/QC tools for AEC          │
+│  🧠 Learning: Cloud architecture (Azure), LLM eval pipelines    │
+│  🎨 Exploring: Multimodal retrieval for drawing libraries       │
+│  📐 Working on: Firm-wide BIM tooling & Revit API suite         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
