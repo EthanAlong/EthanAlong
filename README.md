@@ -25,9 +25,10 @@ Architect by training.
 | **[Revit AI Agent](https://www.ethanhdigital.com/engineering#revit-agent)** | Claude Code / Codex edit live Revit models through MCP. Engineers approve every write; every write is reversible. |
 | **[Revit Add-in Suite](https://www.ethanhdigital.com/engineering#revit-suite)** | Four daily chores in one signed add-in. AI Detail Library: 1,000+ details found by describing them (VLM + Postgres/pgvector), model picked by a blind eval with six engineers. |
 | **[Azure Platform](https://www.ethanhdigital.com/engineering#azure-platform)** | Every tool's backend from one Bicep file. Personal → company subscription as one replay. |
+| **[Outlook MCP](https://www.ethanhdigital.com/engineering#outlook-mcp)** | Claude reads my personal inbox on every surface; only I can send. MIT fork + allow-lists, OAuth DCR, Key Vault, Azure Container Apps. |
 | **[Project Atlas](https://www.ethanhdigital.com/engineering#sb-web)** | 200+ projects on a 3D Mapbox globe, company sign-in, staging-first deploys. |
 
-The code for these is private (client and company data). Walkthroughs on request.
+The code for these is private (client and company data, live endpoints). Walkthroughs on request.
 
 ## Open source
 
